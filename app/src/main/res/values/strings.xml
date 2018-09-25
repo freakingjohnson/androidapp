@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Poop On A Loop</string>
+    <string name="poop_on_a_loop">Poop On A Loop</string>
+    <string name="on_a">ON A</string>
+    <string name="poop">POOP</string>
+    <string name="loop">LOOP</string>
+    <string name="pooppic">pooppic</string>
+    <string name="button_click">Play/Pause</string>
+</resources>
